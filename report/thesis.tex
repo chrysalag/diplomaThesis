@@ -1,0 +1,53 @@
+% Basic thesis document
+
+% Definitions and Packages
+\input{preamble}
+
+\begin{document}
+  \begin{spacing}{1.2}
+	\pagenumbering{roman}
+	\include{titlepage}
+	\thispagestyle{empty}
+	\include{abstract}
+	\include{acknowledge}
+        %\include{dedication}
+	\tableofcontents
+	%\listoffigures
+	%\listoftables
+	%\cleardoublepage
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+
+	% Chapter 1
+	\include{chapter_1}
+
+    % Chapter 2
+    \include{chapter_2}
+
+    % Chapter 3
+    \include{chapter_3}
+
+    % Chapter 4
+    \include{chapter_4}
+
+    % Chapter 5
+    \include{chapter_5}
+    
+    % Chapter 6
+    \include{chapter_6}
+
+    % terminology and acronyms
+    \include{terminology}
+
+
+    %\selectbiblanguage{english}
+	%\bibliographystyle{babalpha-fl}
+    \bibliographystyle{babplain}
+    %\selectlanguage{english}
+	\renewcommand\btxauthorcolon{.}
+	\bibliography{my_references}
+    %\selectlanguage{greek}
+ 	\cleardoublepage
+	\printindex
+  \end{spacing}
+\end{document}

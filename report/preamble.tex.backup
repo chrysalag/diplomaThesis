@@ -1,0 +1,125 @@
+\documentclass[10pt,a4paper]{book}
+
+% Packages
+\usepackage[english,greek]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{ucs} 
+\usepackage{color}
+\usepackage{tikz}
+\usepackage{algpseudocode}
+\usetikzlibrary {plotmarks}
+\usetikzlibrary{shapes,arrows}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{amsmath,amssymb,amsfonts,amsthm}
+\usepackage[small,bf]{caption}
+%\usepackage{wrapft}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+\usepackage{fancybox}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{setspace}
+\usepackage{subfig}
+\usepackage{caption}
+\usepackage{algorithm}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{bbm}
+\usepackage[greek]{babelbib}
+\usepackage{epigraph}
+\usepackage[toc,page]{appendix}
+\usepackage{paralist}
+\usepackage{fixltx2e}
+\usepackage{lettrine}
+\usepackage{makeidx}
+\usepackage{colortbl}
+\usepackage{rotating}
+\usepackage{lscape}
+\usepackage{stmaryrd}
+\usepackage[Lenny]{fncychap}
+	\ChNameVar{\Large \rm}
+	\ChTitleVar{\Huge \bfseries}
+	\ChRuleWidth{1.5pt}
+\usepackage[nottoc]{tocbibind}
+
+%\usepackage[avantgarde]{quotchap}
+% \usepackage[T1]{fontenc}
+% \usepackage[10pt]{type1ec}
+% \usepackage[onlytext]{MinionPro}
+\usepackage{kerkis}
+
+% Language alternation
+\newcommand{\en}{\latintext}
+\newcommand{\el}{\greektext}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+% hyperref settings
+\definecolor{darkblue}{RGB}{0,0,128}
+\usepackage[colorlinks=true,
+pdfauthor={Chrysanthi Lagodimou},
+pdftitle={Study and Implementation of Collaborative Filtering, for the intelligent Generation of Recommendation under Cold Start Problem},
+pdfsubject={Study and Implementation of Collaborative Filtering, for the intelligent Generation of Recommendation under Cold Start Problem},
+pdfkeywords={},
+bookmarks=false, 
+linktoc = all
+]{hyperref}
+\hypersetup{colorlinks, citecolor=darkblue, filecolor=darkblue, urlcolor=darkblue, linkcolor=darkblue}
+
+%% Define a new 'leo' style for the url package that will use a smaller font.
+\makeatletter
+\def\url@leostyle{%
+  \@ifundefined{selectfont}{\def\UrlFont{\sf}}{\def\UrlFont{\small\sffamily}}}
+\makeatother
+%% Now actually use the newly defined style.
+\urlstyle{leo}
+
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+
+
+% Algorithm package settings
+ \floatname{algorithm}{Αλγόριθμος}
+ \algrenewcommand\algorithmicrequire{\textbf{Είσοδος:}}
+ \algrenewcommand\algorithmicensure{\textbf{Έξοδος:}}
+ \algrenewcommand\algorithmicfor{\textbf{\en for}}
+ \algrenewcommand\algorithmicdo{\textbf{\en do}}
+ \algrenewcommand\algorithmicend{\textbf{\en end}}
+ \algrenewcommand\algorithmicif{\textbf{\en if}}
+ \algrenewcommand\algorithmicforall{\textbf{\en for all}}
+ \algrenewcommand\algorithmicthen{\textbf{\en then}}
+ \algrenewcommand\algorithmicwhile{\textbf{\en while}}
+ \algrenewcommand\algorithmicelse{\textbf{\en else}}
+ \algrenewcommand\algorithmicreturn{\textbf{\en return}}
+ \newcommand{\theHalgorithm}{\arabic{algorithm}}
+
+% My colors
+\definecolor{grey1}{rgb}{0.9,0.9,0.9}
+\definecolor{grey2}{rgb}{0.6,0.6,0.6}
+\definecolor{grey3}{rgb}{0.4,0.4,0.4}
+
+
+% Layout set up
+%\usepackage[left=2.5cm,right=2.5cm,top=3.5cm,bottom=2.5cm]{geometry}
+
+% % Theorem definitions
+ \theoremstyle{plain} \newtheorem{theorem}{Θεώρημα}[chapter]
+ \theoremstyle{plain} \newtheorem{lemma}{Λήμμα}[chapter]
+ \theoremstyle{plain} \newtheorem{definition}{Ορισμός}[chapter]
+ \theoremstyle{definition} \newtheorem{example}{Παράδειγμα}[chapter]
+ \newtheorem{ntechnique}{Τεχνική}[chapter]
+
+% configuration about epigraph
+\renewcommand{\epigraphwidth}{225pt}
+
+% Pagestyle -- Headers and Footers
+\pagestyle{fancy}
+\lhead[\bfseries \thepage]{\nouppercase \rightmark}
+\chead[]{}	
+\rhead[\nouppercase \leftmark]{\bfseries \thepage}
+\cfoot[]{}
+\setlength{\headheight}{15pt}
+
+% For the index
+\makeindex

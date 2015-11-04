@@ -1,0 +1,153 @@
+% Encoding: UTF-8
+@article{Nikolakopoulos2015126,
+title = {Hierarchical Itemspace Rank: Exploiting hierarchy to alleviate sparsity in ranking-based recommendation},
+journal = {Neurocomputing},
+volume = {163},
+number = {1},
+pages = {126 - 136},
+year = {2015},
+note = {Recent Advancements in Hybrid Artificial Intelligence Systems and its Application to Real-World ProblemsProgress in Intelligent SystemsMining Humanistic DataSelected papers from the 7th International Conference on Hybrid Artificial Intelligence Systems (HAIS 2012)Selected papers from the 2nd Brazilian Conference on Intelligent Systems (BRACIS 2013)Selected papers from the 2nd Mining Humanistic Data Workshop at \{EANN\} 2013},
+issn = {0925-2312},
+doi = {http://dx.doi.org/10.1016/j.neucom.2014.09.082},
+url = {http://www.sciencedirect.com/science/article/pii/S0925231215002180},
+author = {Athanasios N. Nikolakopoulos and Marianna A. Kouneli and John D. Garofalakis},
+keywords = {Recommender systems},
+keywords = {Collaborative filtering},
+keywords = {Sparsity},
+keywords = {Ranking algorithms},
+keywords = {Experiments},
+language = "english"
+}
+
+@phdthesis{ekstrand_towards_2014,
+	address = {Minneapolis, {MN}},
+	type = {Ph.D Thesis},
+	title = {Towards Recommender Engineering: Tools and Experiments in Recommender Differences},
+	shorttitle = {Towards Recommender Engineering},
+	url = {http://md.ekstrandom.net/research/thesis/},
+	abstract = {Since the introduction of their modern form 20 years ago, recommender systems have proven a valuable tool for help users manage information overload. Two decades of research have produced many algorithms for computing recommendations, mechanisms for evaluating their effectiveness, and user interfaces and experiences to embody them. It has also been found that the outputs of different recommendation algorithms differ in user-perceptible ways that affect their suitability to different tasks and information needs. However, there has been little work to systematically map out the space of algorithms and the characteristics they exhibit that makes them more or less effective in different applications. As a result, developers of recommender systems must experiment, conducting basic science on each application and its users to determine the approach(es) that will meet their needs.
+
+This thesis presents our work towards recommender engineering: the design of recommender systems from well-understood principles of user needs, domain properties, and algorithm behaviors. This will reduce the experimentation required for each new recommender application, allowing developers to design recommender systems that are likely to be effective for their particular application.
+
+To that end, we make four contributions: the {LensKit} toolkit for conducting experiments on a wide variety of recommender algorithms and data sets under different experimental conditions (offline experiments with diverse metrics, online user studies, and the ability to grow to support additional methodologies), along with new developments in object-oriented software configuration to support this toolkit; experiments on the configuration options of widely-used algorithms to provide guidance on tuning and configuring them; an offline experiment on the differences in the errors made by different algorithms; and a user study on the user-perceptible differences between lists of movie recommendations produced by three common recommender algorithms. Much research is needed to fully realize the vision of recommender engineering in the coming years; it is our hope that {LensKit} will prove a valuable foundation for much of this work, and our experiments represent a small piece of the kinds of studies that must be carried out, replicated, and validated to enable recommender systems to be engineered.},
+	school = {University of Minnesota},
+	author = {Ekstrand, Michael D.},
+	month = jul,
+	year = {2014},
+	language = "english"
+	
+}
+
+@inproceedings{Nikolakopoulos:2013:NNR:2433396.2433415,
+ author = {Nikolakopoulos, Athanasios N. and Garofalakis, John D.},
+ title = {{NCD}aware{R}ank: a novel ranking method that exploits the decomposable structure of the web},
+ booktitle = {Proceedings of the sixth ACM international conference on Web search and data mining},
+ series = {WSDM '13},
+ year = {2013},
+ isbn = {978-1-4503-1869-3},
+ location = {Rome, Italy},
+ pages = {143--152},
+ numpages = {10},
+ url = {http://doi.acm.org/10.1145/2433396.2433415},
+ doi = {10.1145/2433396.2433415},
+ acmid = {2433415},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {link analysis, link spamming, {NCD}aware{R}ank, near complete decomposability, pagerank, ranking, sparsity},
+ language = "english"
+}
+
+@inproceedings{Gori:2007:IRB:1625275.1625720,
+ author = {Gori, Marco and Pucci, Augusto},
+ title = {ItemRank: A Random-walk Based Scoring Algorithm for Recommender Engines},
+ booktitle = {Proceedings of the 20th International Joint Conference on Artifical Intelligence},
+ series = {IJCAI'07},
+ year = {2007},
+ location = {Hyderabad, India},
+ pages = {2766--2771},
+ numpages = {6},
+ url = {http://dl.acm.org/citation.cfm?id=1625275.1625720},
+ acmid = {1625720},
+ publisher = {Morgan Kaufmann Publishers Inc.},
+ address = {San Francisco, CA, USA},
+ language = "english"
+} 
+
+@article{Konstan:2015:TRS:2744768.2728171,
+ author = {Konstan, Joseph A. and Walker, J. D. and Brooks, D. Christopher and Brown, Keith and Ekstrand, Michael D.},
+ title = {Teaching Recommender Systems at Large Scale: Evaluation and Lessons Learned from a Hybrid MOOC},
+ journal = {ACM Trans. Comput.-Hum. Interact.},
+ issue_date = {April 2015},
+ volume = {22},
+ number = {2},
+ month = apr,
+ year = {2015},
+ issn = {1073-0516},
+ pages = {10:1--10:23},
+ articleno = {10},
+ numpages = {23},
+ url = {http://doi.acm.org/10.1145/2728171},
+ doi = {10.1145/2728171},
+ acmid = {2728171},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {Massively Online Open Course (MOOC), learning assessment},
+ language = "english"
+}
+
+@book{Gamma:1995:DPE:186897,
+ author = {Gamma, Erich and Helm, Richard and Johnson, Ralph and Vlissides, John},
+ title = {Design Patterns: Elements of Reusable Object-oriented Software},
+ year = {1995},
+ isbn = {0-201-63361-2},
+ publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+ address = {Boston, MA, USA},
+ language = "english"
+} 
+
+@article{mar96c,
+  added-at = {2009-01-14T00:43:43.000+0100},
+  author = {Martin, Robert C.},
+  biburl = {http://www.bibsonomy.org/bibtex/26a2fa812caafec0abd788700964a519a/dret},
+  description = {dret'd bibliography},
+  interhash = {fa3e27d67a5f3d0bd1f365f38caf26c9},
+  intrahash = {6a2fa812caafec0abd788700964a519a},
+  journal = {C++ Report},
+  keywords = {imported},
+  month = May,
+  timestamp = {2009-01-14T00:43:47.000+0100},
+  title = {The Dependency Inversion Principle},
+  topic = {dip[1]},
+  uri = {http://www.objectmentor.com/resources/articles/dip.pdf},
+  volume = 8,
+  year = 1996,
+  language = "english"
+}
+
+@book{ricci2011recommender,
+  title={Recommender systems handbook},
+  author={Ricci, Francesco and Rokach, Lior and Shapira, Bracha and Kantor, Paul B.},
+  year={2011},
+  publisher={Springer}, 
+  language = "english"
+}
+
+
+@article{OMAHONY:2003A,
+  added-at = {2007-11-02T23:09:02.000+0100},
+  address = {Dublin, Ireland},
+  author = {O'Mahony, M. P. and Hurley, N. J. and Silvestre, G. C. M.},
+  biburl = {http://www.bibsonomy.org/bibtex/2e47dc3ca1af923ec91bd4c77ae4adbf1/bsmyth},
+  description = {all-bibs-cleaned.bib},
+  interhash = {6bc6a560614938dad8b7e2b4d1bd791c},
+  intrahash = {e47dc3ca1af923ec91bd4c77ae4adbf1},
+  journal = {In Proceedings of the 14th Irish International Conference on Artificial Intelligence and Cognitive Science (AICS'03)},
+  keywords = {imported},
+  month = {September 17--19},
+  pages = {164--168},
+  timestamp = {2007-11-02T23:09:26.000+0100},
+  title = {An Evaluation of the Performance of Collaborative Filtering},
+  year = 2003, 
+  language = "english"
+}
+

@@ -1,0 +1,173 @@
+\begin{thebibliography}{10}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\btxselectlanguage {english}
+\bibitem {Burke:2007:HWR:1768197.1768211}
+\btxnamefont {\btxlastnamefont {Burke}, Robin}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {The adaptive web}{The Adaptive Web}}.
+\newblock \btxchapterlong {}\ Hybrid Web Recommender Systems, \btxpageslong {}\
+  377--408. \btxpublisherfont {Springer-Verlag}, Berlin, Heidelberg,
+  2007\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {978-3-540-72078-2}}}.
+\newblock {\latintext
+  \btxurlfont{http://dl.acm.org/citation.cfm?id=1768197.1768211}}.
+
+\bibitem {ekstrand_towards_2014}
+\btxnamefont {\btxlastnamefont {Ekstrand}, Michael\btxfnamespacelong
+  D.}\btxauthorcolon\ \btxtitlefont {Towards Recommender Engineering: Tools and
+  Experiments in Recommender Differences}.
+\newblock \btxifchangecase {Ph.d thesis}{Ph.D Thesis}, University of Minnesota,
+  Minneapolis, {MN}, \btxprintmonthyear{.}{7}{2014}{long}.
+\newblock {\latintext \btxurlfont{http://md.ekstrandom.net/research/thesis/}}.
+
+\bibitem {Gamma:1995:DPE:186897}
+\btxnamefont {\btxlastnamefont {Gamma}, Erich}, \btxnamefont {Richard
+  \btxlastnamefont {Helm}}, \btxnamefont {Ralph \btxlastnamefont
+  {Johnson}}\btxandcomma {} \btxandlong {}\ \btxnamefont {John \btxlastnamefont
+  {Vlissides}}\btxauthorcolon\ \btxtitlefont {Design Patterns: Elements of
+  Reusable Object-oriented Software}.
+\newblock \btxpublisherfont {Addison-Wesley Longman Publishing Co., Inc.},
+  Boston, MA, USA, 1995\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {0-201-63361-2}}}.
+
+\bibitem {Good:1999:CCF:315149.315352}
+\btxnamefont {\btxlastnamefont {Good}, Nathaniel}, \btxnamefont
+  {J.\btxfnamespacelong Ben \btxlastnamefont {Schafer}}, \btxnamefont
+  {Joseph\btxfnamespacelong A. \btxlastnamefont {Konstan}}, \btxnamefont {Al
+  \btxlastnamefont {Borchers}}, \btxnamefont {Badrul \btxlastnamefont
+  {Sarwar}}, \btxnamefont {Jon \btxlastnamefont {Herlocker}}\btxandcomma {}
+  \btxandlong {}\ \btxnamefont {John \btxlastnamefont {Riedl}}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Combining collaborative filtering with
+  personal agents for better recommendations}{Combining Collaborative Filtering
+  with Personal Agents for Better Recommendations}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the Sixteenth National
+  Conference on Artificial Intelligence and the Eleventh Innovative
+  Applications of Artificial Intelligence Conference Innovative Applications of
+  Artificial Intelligence}, AAAI '99/IAAI '99, \btxpageslong {}\ 439--446,
+  Menlo Park, CA, USA, 1999. \btxpublisherfont {American Association for
+  Artificial Intelligence}\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {0-262-51106-1}}}.
+\newblock {\latintext
+  \btxurlfont{http://dl.acm.org/citation.cfm?id=315149.315352}}.
+
+\bibitem {Gori:2007:IRB:1625275.1625720}
+\btxnamefont {\btxlastnamefont {Gori}, Marco} \btxandlong {}\ \btxnamefont
+  {Augusto \btxlastnamefont {Pucci}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Itemrank: A random-walk based scoring algorithm for
+  recommender engines}{ItemRank: A Random-walk Based Scoring Algorithm for
+  Recommender Engines}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the 20th International
+  Joint Conference on Artifical Intelligence}, IJCAI'07, \btxpageslong {}\
+  2766--2771, San Francisco, CA, USA, 2007. \btxpublisherfont {Morgan Kaufmann
+  Publishers Inc.}
+\newblock {\latintext
+  \btxurlfont{http://dl.acm.org/citation.cfm?id=1625275.1625720}}.
+
+\bibitem {Konstan:2015:TRS:2744768.2728171}
+\btxnamefont {\btxlastnamefont {Konstan}, Joseph\btxfnamespacelong A.},
+  \btxnamefont {J.\btxfnamespacelong D. \btxlastnamefont {Walker}},
+  \btxnamefont {D.\btxfnamespacelong Christopher \btxlastnamefont {Brooks}},
+  \btxnamefont {Keith \btxlastnamefont {Brown}}\btxandcomma {} \btxandlong {}\
+  \btxnamefont {Michael\btxfnamespacelong D. \btxlastnamefont
+  {Ekstrand}}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {Teaching
+  recommender systems at large scale: Evaluation and lessons learned from a
+  hybrid mooc}{Teaching Recommender Systems at Large Scale: Evaluation and
+  Lessons Learned from a Hybrid MOOC}}.
+\newblock \btxjournalfont {ACM Trans. Comput.-Hum. Interact.},
+  22(2):10:1--10:23, \btxprintmonthyear{.}{4}{2015}{long}\ifbtxprintISSN {,
+  \mbox{\btxISSN~\btxISSNfont {1073-0516}}}.
+\newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/2728171}}.
+
+\bibitem {Koren:2008:FMN:1401890.1401944}
+\btxnamefont {\btxlastnamefont {Koren}, Yehuda}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Factorization meets the neighborhood: A multifaceted
+  collaborative filtering model}{Factorization Meets the Neighborhood: A
+  Multifaceted Collaborative Filtering Model}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the 14th ACM SIGKDD
+  International Conference on Knowledge Discovery and Data Mining}, KDD '08,
+  \btxpageslong {}\ 426--434, New York, NY, USA, 2008. \btxpublisherfont
+  {ACM}\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {978-1-60558-193-4}}}.
+\newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/1401890.1401944}}.
+
+\bibitem {mar96c}
+\btxnamefont {\btxlastnamefont {Martin}, Robert\btxfnamespacelong
+  C.}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase {The dependency
+  inversion principle}{The Dependency Inversion Principle}}.
+\newblock \btxjournalfont {C++ Report}, 8,
+  \btxprintmonthyear{.}{5}{1996}{long}.
+
+\bibitem {Nikolakopoulos:2013:NNR:2433396.2433415}
+\btxnamefont {\btxlastnamefont {Nikolakopoulos}, Athanasios\btxfnamespacelong
+  N.} \btxandlong {}\ \btxnamefont {John\btxfnamespacelong D. \btxlastnamefont
+  {Garofalakis}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase
+  {{NCD}aware{R}ank: a novel ranking method that exploits the decomposable
+  structure of the web}{{NCD}aware{R}ank: a novel ranking method that exploits
+  the decomposable structure of the web}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the sixth ACM
+  international conference on Web search and data mining}, WSDM '13,
+  \btxpageslong {}\ 143--152, New York, NY, USA, 2013. \btxpublisherfont
+  {ACM}\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {978-1-4503-1869-3}}}.
+\newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/2433396.2433415}}.
+
+\bibitem {Nikolakopoulos2015126}
+\btxnamefont {\btxlastnamefont {Nikolakopoulos}, Athanasios\btxfnamespacelong
+  N.}, \btxnamefont {Marianna\btxfnamespacelong A. \btxlastnamefont
+  {Kouneli}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {John\btxfnamespacelong D. \btxlastnamefont {Garofalakis}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Hierarchical itemspace rank: Exploiting
+  hierarchy to alleviate sparsity in ranking-based recommendation}{Hierarchical
+  Itemspace Rank: Exploiting hierarchy to alleviate sparsity in ranking-based
+  recommendation}}.
+\newblock \btxjournalfont {Neurocomputing}, 163(1):126 -- 136,
+  2015\ifbtxprintISSN {, \mbox{\btxISSN~\btxISSNfont {0925-2312}}}.
+\newblock {\latintext
+  \btxurlfont{http://www.sciencedirect.com/science/article/pii/S0925231215002180}},
+  Recent Advancements in Hybrid Artificial Intelligence Systems and its
+  Application to Real-World ProblemsProgress in Intelligent SystemsMining
+  Humanistic DataSelected papers from the 7th International Conference on
+  Hybrid Artificial Intelligence Systems (HAIS 2012)Selected papers from the
+  2nd Brazilian Conference on Intelligent Systems (BRACIS 2013)Selected papers
+  from the 2nd Mining Humanistic Data Workshop at \{EANN\} 2013.
+
+\bibitem {ricci2011recommender}
+\btxnamefont {\btxlastnamefont {Ricci}, Francesco}, \btxnamefont {Lior
+  \btxlastnamefont {Rokach}}, \btxnamefont {Bracha \btxlastnamefont
+  {Shapira}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Paul\btxfnamespacelong B. \btxlastnamefont {Kantor}}\btxauthorcolon\
+  \btxtitlefont {Recommender systems handbook}.
+\newblock \btxpublisherfont {Springer}, 2011.
+
+\bibitem {conf/delos/SinhaS01}
+\btxnamefont {\btxlastnamefont {Sinha}, Rashmi\btxfnamespacelong R.}
+  \btxandlong {}\ \btxnamefont {Kirsten \btxlastnamefont
+  {Swearingen}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Comparing
+  recommendations made by online systems and friends.}{Comparing
+  Recommendations Made by Online Systems and Friends.}}
+\newblock \Btxinlong {}\ \btxtitlefont {DELOS Workshop: Personalisation and
+  Recommender Systems in Digital Libraries}, 2001.
+\newblock {\latintext
+  \btxurlfont{http://dblp.uni-trier.de/db/conf/delos/delos2001.html#SinhaS01}}.
+
+\bibitem {Takacs:2007:MCG:1345448.1345466}
+\btxnamefont {\btxlastnamefont {Tak\'{a}cs}, G\'{a}bor}, \btxnamefont
+  {Istv\'{a}n \btxlastnamefont {Pil\'{a}szy}}, \btxnamefont {Botty\'{a}n
+  \btxlastnamefont {N{\'e}meth}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Domonkos \btxlastnamefont {Tikk}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Major components of the gravity recommendation
+  system}{Major Components of the Gravity Recommendation System}}.
+\newblock \btxjournalfont {SIGKDD Explor. Newsl.}, 9(2):80--83,
+  \btxprintmonthyear{.}{12}{2007}{long}\ifbtxprintISSN {,
+  \mbox{\btxISSN~\btxISSNfont {1931-0145}}}.
+\newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/1345448.1345466}}.
+
+\end{thebibliography}

@@ -1,0 +1,740 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  27 OCT 2015 19:56
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**titlepage.tex
+(./titlepage.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 7--7
+[] 
+ []
+
+
+Overfull \hbox (284.52756pt too wide) in paragraph at lines 9--9
+ [][] 
+ []
+
+! Undefined control sequence.
+<argument> {\Large 
+                   Œ†Œ±ŒΩŒµœÄŒπœÉœÑŒ∑ŒºŒπŒø Œ†Œ±œÑœÅœâŒΩ}
+l.11 ...ge Œ†Œ±ŒΩŒµœÄŒπœÉœÑŒ∑ŒºŒπŒø Œ†Œ±œÑœÅœâŒΩ}}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no † in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ± in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no Ω in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no µ in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no Ä in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no π in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no É in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no Ñ in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ∑ in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no º in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no π in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ø in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no † in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ± in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no Ñ in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no Å in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no â in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no Ω in font cmcsc10!
+! Undefined control sequence.
+<argument> {\Large 
+                   Œ†ŒøŒªœÖœÑŒµœáŒΩŒπŒ∫Œ∑ Œ£œáŒøŒªŒ∑}
+l.13 ...\Large Œ†ŒøŒªœÖœÑŒµœáŒΩŒπŒ∫Œ∑ Œ£œáŒøŒªŒ∑}}
+                                                   \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no † in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ø in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ª in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no Ö in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no Ñ in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no µ in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no á in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no Ω in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no π in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ∫ in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ∑ in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no £ in font cmcsc10!
+Missing character: There is no œ in font cmcsc10!
+Missing character: There is no á in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ø in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ª in font cmcsc10!
+Missing character: There is no Œ in font cmcsc10!
+Missing character: There is no ∑ in font cmcsc10!
+! Undefined control sequence.
+l.15 {\large
+             Œ§ŒºŒÆŒºŒ± ŒúŒ∑œáŒ±ŒΩŒπŒ∫œéŒΩ ŒóŒªŒµŒ∫œÑœÅŒøŒΩŒπŒ∫œéŒΩ Œ•œÄŒøŒª...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ú in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no á in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no • in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ü in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+! Undefined control sequence.
+l.17 {\large
+             ŒîŒπœÄŒªœâŒºŒ±œÑŒπŒ∫ŒÆ ŒïœÅŒ≥Œ±œÉŒØŒ±} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+! Undefined control sequence.
+<argument> {\huge 
+                  \textsf {ŒúŒµŒªŒ≠œÑŒ∑ Œ∫Œ±Œπ Œ•ŒªŒøœÄŒøŒØŒ∑œÉŒ∑ ŒëŒªŒ≥ŒøœÅ...
+l.19 ...∏ŒÆŒ∫ŒµœÇ ŒöœÅœçŒ±œÇ ŒïŒ∫Œ∫ŒØŒΩŒ∑œÉŒ∑œÇ}}}
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ú in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no µ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ª in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ≠ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ñ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∫ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ± in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no π in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no • in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ª in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ø in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ä in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ø in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ø in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no É in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ë in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ª in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ≥ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ø in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Å in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ø in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∏ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no º in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no â in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ω in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no £ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ö in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ω in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no µ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Å in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ≥ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ± in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ñ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no π in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∫ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Æ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ç in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no î in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no π in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Æ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∏ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no É in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ç in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ≥ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no π in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ± in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ñ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ω in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ï in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ö in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ü in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ö in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Æ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no † in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ± in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Å in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ± in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ≥ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no â in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ≥ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Æ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no £ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ö in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no É in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ñ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ¨ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no É in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no µ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no â in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ω in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ö in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ä in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no å in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no £ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ö in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ω in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∏ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Æ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∫ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no µ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ç in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ö in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Å in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no ç in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ± in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ç in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ï in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∫ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∫ in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ø in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no Ω in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no É in font cmssbx10!
+Missing character: There is no Œ in font cmssbx10!
+Missing character: There is no ∑ in font cmssbx10!
+Missing character: There is no œ in font cmssbx10!
+Missing character: There is no Ç in font cmssbx10!
+
+Overfull \hbox (3.05557pt too wide) in paragraph at lines 19--19
+ \OT1/cmss/bx/n/10 , 
+ []
+
+! Undefined control sequence.
+l.21 {\large
+             ŒßœÅœÖœÉŒ¨ŒΩŒ∏Œ∑ Œì. ŒõŒ±Œ≥ŒøŒ¥ŒÆŒºŒøœÖ} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ö in font nullfont!
+! Undefined control sequence.
+<recently read> \small 
+                       
+l.22 \small
+           {Œë.Œú. 4208} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ë in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ú in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 4 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+! Undefined control sequence.
+l.24 {\large
+             ŒïœÄŒπŒ≤ŒªŒ≠œÄœâŒΩ: ŒôœâŒ¨ŒΩŒΩŒ∑œÇ ŒìŒ±œÅŒøœÜŒ±ŒªŒ¨Œ∫Œ∑œÇ, ŒöŒ±...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ü in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ö in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 {\normalsize
+                 {Œ†Œ¨œÑœÅŒ±, ŒùŒøŒ≠ŒºŒ≤œÅŒπŒøœÇ 2015}} \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+
+Overfull \hbox (284.52756pt too wide) in paragraph at lines 29--29
+ [][] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> titlepage.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 19 strings out of 493304
+ 257 string characters out of 6139871
+ 52880 words of memory out of 5000000
+ 3575 multiletter control sequences out of 15000+600000
+ 4543 words of font info for 17 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 15i,1n,11p,278b,159s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
