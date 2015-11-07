@@ -73,6 +73,15 @@
 \newblock {\latintext
   \btxurlfont{http://dl.acm.org/citation.cfm?id=1625275.1625720}}.
 
+\bibitem {hofmann2003collaborative}
+\btxnamefont {\btxlastnamefont {Hofmann}, Thomas}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Collaborative filtering via gaussian probabilistic latent
+  semantic analysis}{Collaborative filtering via gaussian probabilistic latent
+  semantic analysis}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the 26th annual
+  international ACM SIGIR conference on Research and development in informaion
+  retrieval}, \btxpageslong {}\ 259--266. ACM, 2003.
+
 \bibitem {Konstan:2015:TRS:2744768.2728171}
 \btxnamefont {\btxlastnamefont {Konstan}, Joseph\btxfnamespacelong A.},
   \btxnamefont {J.\btxfnamespacelong D. \btxlastnamefont {Walker}},
@@ -105,6 +114,15 @@
   inversion principle}{The Dependency Inversion Principle}}.
 \newblock \btxjournalfont {C++ Report}, 8,
   \btxprintmonthyear{.}{5}{1996}{long}.
+
+\bibitem {DBLP:conf/um/Masthoff03}
+\btxnamefont {\btxlastnamefont {Masthoff}, Judith}\btxauthorcolon\
+  \btxtitlefont {\btxifchangecase {Modeling the multiple people that are
+  me}{Modeling the Multiple People That Are Me}}.
+\newblock \Btxinlong {}\ \btxtitlefont {User Modeling 2003, 9th International
+  Conference, {UM} 2003, Johnstown, PA, USA, June 22-26, 2003, Proceedings},
+  \btxpageslong {}\ 258--262, 2003.
+\newblock {\latintext \btxurlfont{http://dx.doi.org/10.1007/3-540-44963-9_34}}.
 
 \bibitem {Nikolakopoulos:2013:NNR:2433396.2433415}
 \btxnamefont {\btxlastnamefont {Nikolakopoulos}, Athanasios\btxfnamespacelong

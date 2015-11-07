@@ -1,0 +1,29 @@
+# use glob syntax.
+syntax: glob
+
+.directory
+*.o
+*~
+*a.out
+ntest
+testInternal
+testinternal
+treetest
+# ignore some latex generated files
+*.aux
+*.bbl
+*.blg
+*.log
+*.loa
+*.lof
+*.lot
+*.nav
+*.out
+*.snm
+*.backup
+*.toc
+*.vrb
+*.idx
+
+# ignore executables by codeblocks
+code/ist/bin/*

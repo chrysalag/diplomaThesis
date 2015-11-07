@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  4 NOV 2015 18:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  7 NOV 2015 16:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -945,7 +945,8 @@ hapter_3.aux
 
 LaTeX Warning: Label `' multiply defined.
 
-) (./chapter_4.aux) (./chapter_5.aux) (./chapter_6.aux) (./terminology.aux))
+) (./chapter_4.aux) (./chapter_5.aux) (./chapter_6.aux) (./codeFiles.aux)
+(./terminology.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -965,12 +966,10 @@ LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Try loading font information for OT1+mak on input line 6.
-
-(/usr/share/texlive/texmf-dist/tex/latex/kerkis/ot1mak.fd)
+ (/usr/share/texlive/texmf-dist/tex/latex/kerkis/ot1mak.fd)
 LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 6.
 LaTeX Font Info:    Try loading font information for LGR+mak on input line 6.
-
 (/usr/share/texlive/texmf-dist/tex/latex/kerkis/lgrmak.fd)
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 6.
@@ -1234,37 +1233,28 @@ Overfull \hbox (4.48334pt too wide) in paragraph at lines 12--13
  []
 
 LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
-(Font)              scaled to size 10.79993pt on input line 18.
+(Font)              scaled to size 10.79993pt on input line 19.
 [6]
-LaTeX Font Info:    Try loading font information for OMS+mak on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+mak on input line 24.
  (/usr/share/texlive/texmf-dist/tex/latex/kerkis/omsmak.fd
 File: omsmak.fd 
 )
 LaTeX Font Info:    Font shape `OMS/mak/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 23.
-
-Overfull \hbox (1.27939pt too wide) in paragraph at lines 24--25
-\LGR/mak/m/n/10 stˆseic proc au-tìn kai mpo-ro-Ôn na qrh-si-me-Ôsoun se èna dia
--dra-sti-kì sÔsth-
- []
-
-[7] [8]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9])
-[10]
+(Font)              scaled to size 8.99994pt on input line 24.
+ [7] [8] [9]
+[10]) [11]
 \openout2 = `chapter_3.aux'.
 
- (./chapter_3.tex
-\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
-extiota \textomicron  3.
-LaTeX Font Info:    Font shape `OT1/mak/bx/n' will be
-(Font)              scaled to size 22.39185pt on input line 1.
-[11
+ (./chapter_3.tex [12
 
 
 
 ]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  3.
+LaTeX Font Info:    Font shape `OT1/mak/bx/n' will be
+(Font)              scaled to size 22.39185pt on input line 1.
+[13]
 LaTeX Font Info:    Try loading font information for OMS+zplm on input line 21.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
@@ -1274,13 +1264,13 @@ File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
 (Font)              using `U/stmry/m/n' instead on input line 26.
 
-[12]
+[14]
 Overfull \hbox (0.49377pt too wide) in paragraph at lines 40--41
 []\LGR/mak/m/n/10 To mh-tr¸o ˆme-shc su-sqèti-shc $\OT1/cmr/bx/n/10 C$ \LGR/mak
 /m/n/10 sto-qe-Ôei sto na a-pei-ko-nÐsei tic ˆme-sec sqèseic
  []
 
-[13]
+[15]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
 put line 67.
 LaTeX Font Info:    Font shape `LGR/mak/m/it' will be
@@ -1289,7 +1279,7 @@ LaTeX Font Info:    Font shape `OT1/mak/m/it' will be
 (Font)              scaled to size 8.99994pt on input line 80.
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 4.49997pt on input line 83.
- [14] [15]
+ [16] [17]
 Underfull \vbox (badness 10000) detected at line 158
  []
 
@@ -1297,7 +1287,7 @@ Underfull \vbox (badness 10000) detected at line 158
 Overfull \vbox (13.08382pt too high) has occurred while \output is active []
 
 
-[16]
+[18]
 Overfull \hbox (10.34125pt too wide) in paragraph at lines 160--161
 []\LGR/mak/m/n/10 Gia to de-Ôte-ro to-mèa, ta pei-rˆma-ta ègi-nan sto sÔbo-lo d
 e-do-mènwn \OT1/mak/m/n/10 Yaho-o!R2Music
@@ -1307,16 +1297,16 @@ e-do-mènwn \OT1/mak/m/n/10 Yaho-o!R2Music
 Underfull \vbox (badness 10000) detected at line 170
  []
 
-[17]
+[19]
 Overfull \hbox (5.74039pt too wide) in paragraph at lines 200--200
 []\LGR/mak/m/n/10 Sumperasmatikˆ, o al-gìrij-moc \OT1/mak/m/n/10 H-IR \LGR/mak/
 m/n/10 e-kme-tal-le-Ôe-tai a-po-te-le-sma-ti-kˆ tic sqèseic
  []
 
-[18]) [19]
+[20]) [21]
 \openout2 = `chapter_4.aux'.
 
- (./chapter_4.tex [20
+ (./chapter_4.tex [22
 
 
 
@@ -1335,19 +1325,19 @@ LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
-) [21]
+) [23]
 LaTeX Font Info:    Font shape `OT1/mak/bx/n' will be
 (Font)              scaled to size 12.9599pt on input line 15.
- [22]
+ [24]
 Overfull \hbox (5.41937pt too wide) in paragraph at lines 30--31
 []\OT1/mak/m/n/10 k-NN\LGR/mak/m/n/10 : Su-ner-ga-ti-k  Di- jh-sh plh-si-èste-r
 ou ge-Ðto-na (eÐdouc-eÐdouc kai qr sth-
  []
 
-[23] [24]
+[25] [26]
 LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
 (Font)              scaled to size 5.39996pt on input line 46.
- [25]
+ [27]
 Underfull \hbox (badness 10000) in paragraph at lines 57--57
 [][][][][]$\OT1/maksf/m/n/9 http : / / lenskit . org / apidocs / org / grouplen
 s / lenskit / transform / normalize /
@@ -1356,64 +1346,69 @@ s / lenskit / transform / normalize /
 
 Underfull \vbox (badness 3977) has occurred while \output is active []
 
- [26]
-Overfull \hbox (17.6462pt too wide) in paragraph at lines 60--61
-[]\LGR/mak/m/n/10 UpologÐzoun baj-mo-lo-gÐec gia ta e-Ðdh me qr sh a-pl¸n mèswn
- ìrwn. QrhsimopoioÔ-
- []
-
-[27] [28]) [29] [30]
+ [28]
+[29] [30]) [31] [32]
 \openout2 = `chapter_5.aux'.
 
  (./chapter_5.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  5.
-) [31
+) [33
 
 
 
 ]
 \openout2 = `chapter_6.aux'.
 
- (./chapter_6.tex [32
+ (./chapter_6.tex [34
 
 
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  6.
-) [33]
-\openout2 = `terminology.aux'.
+) [35]
+\openout2 = `codeFiles.aux'.
 
- (./terminology.tex [34
+ (./codeFiles.tex [36
 
 
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  7.
+) [37]
+\openout2 = `terminology.aux'.
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 5--11
+ (./terminology.tex [38
+
+
+
+]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  8.
+
+Overfull \hbox (160.31912pt too wide) in alignment at lines 5--11
  [] [] 
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 11--18
+Overfull \hbox (160.31912pt too wide) in alignment at lines 11--18
  [] [] 
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 18--22
+Overfull \hbox (160.31912pt too wide) in alignment at lines 18--22
  [] [] 
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 22--26
+Overfull \hbox (160.31912pt too wide) in alignment at lines 22--26
  [] [] 
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 26--54
+Overfull \hbox (160.31912pt too wide) in alignment at lines 26--54
  [] [] 
  []
 
@@ -1422,60 +1417,60 @@ Underfull \vbox (badness 10000) detected at line 54
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 54--80
+Overfull \hbox (160.31912pt too wide) in alignment at lines 54--79
  [] [] 
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 80--105
+Overfull \hbox (160.31912pt too wide) in alignment at lines 79--104
  [] [] 
  []
 
-[35]
-Overfull \hbox (41.88107pt too wide) in alignment at lines 105--130
+[39]
+Overfull \hbox (160.31912pt too wide) in alignment at lines 104--129
  [] [] 
  []
 
 
-Overfull \hbox (41.88107pt too wide) in alignment at lines 130--145
+Overfull \hbox (160.31912pt too wide) in alignment at lines 129--146
  [] [] 
  []
 
-[36] [37] [38
+[40] [41] [42
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
-extiota \textomicron  8.
+extiota \textomicron  9.
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 154--160
+Overfull \hbox (50.24202pt too wide) in alignment at lines 155--161
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 160--169
+Overfull \hbox (50.24202pt too wide) in alignment at lines 161--170
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 169--173
+Overfull \hbox (50.24202pt too wide) in alignment at lines 170--174
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 173--177
+Overfull \hbox (50.24202pt too wide) in alignment at lines 174--178
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 177--222
+Overfull \hbox (50.24202pt too wide) in alignment at lines 178--223
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 222
+Underfull \vbox (badness 10000) detected at line 223
  []
 
-) [39] (./thesis.bbl [40
+) [43] (./thesis.bbl [44
 
 
 ]
@@ -1495,15 +1490,22 @@ Underfull \hbox (badness 2689) in paragraph at lines 34--42
 \OT1/mak/m/n/10 Wesley Long-man Pub-lish-ing Co., Inc., Boston, MA, USA, 1995,
  []
 
-[41]) [42]
+[45]
+LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
+(Font)              scaled to size 5.39996pt on input line 125.
+LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 125.
+ [46]) [47] [48
+
+]
 No file thesis.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
 (./thesis.aux (./titlepage.aux) (./abstract.aux) (./acknowledge.aux)
 (./chapter_1.aux) (./chapter_2.aux) (./chapter_3.aux) (./chapter_4.aux)
-(./chapter_5.aux) (./chapter_6.aux) (./terminology.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 53.
+(./chapter_5.aux) (./chapter_6.aux) (./codeFiles.aux) (./terminology.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 55.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 55.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1511,16 +1513,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 24082 strings out of 493304
- 426732 string characters out of 6139871
- 554277 words of memory out of 5000000
- 26730 multiletter control sequences out of 15000+600000
- 51208 words of font info for 131 fonts, out of 8000000 for 9000
+ 24104 strings out of 493304
+ 427037 string characters out of 6139871
+ 556264 words of memory out of 5000000
+ 26735 multiletter control sequences out of 15000+600000
+ 52046 words of font info for 133 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 58i,13n,56p,2410b,941s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,13n,56p,2490b,1044s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/kerkis/kerkis.enc}{/usr/share/
 texlive/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc}{/usr/share/texlive/texm
 f-dist/fonts/enc/dvips/kerkis/kmsym.enc}{/usr/share/texlive/texmf-dist/fonts/en
@@ -1544,10 +1546,10 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/kerkis/ktsy.pfb></usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on thesis.pdf (49 pages, 317484 bytes).
+Output written on thesis.pdf (55 pages, 324297 bytes).
 PDF statistics:
- 577 PDF objects out of 1000 (max. 8388607)
- 500 compressed objects within 5 object streams
- 152 named destinations out of 1000 (max. 500000)
+ 615 PDF objects out of 1000 (max. 8388607)
+ 531 compressed objects within 6 object streams
+ 162 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
