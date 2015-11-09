@@ -19,45 +19,45 @@ refers to entry "DBLP:conf/um/2003", which doesn't exist
 Warning--I didn't find a database entry for "DBLP:conf/um/2003"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty booktitle in Burke:2007:HWR:1768197.1768211
-You've used 15 entries,
+You've used 27 entries,
             2788 wiz_defined-function locations,
-            776 strings with 10944 characters,
-and the built_in function-call counts, 7280 in all, are:
-= -- 688
-> -- 234
-< -- 8
-+ -- 95
-- -- 78
-* -- 782
-:= -- 990
-add.period$ -- 47
-call.type$ -- 15
-change.case$ -- 82
+            875 strings with 13725 characters,
+and the built_in function-call counts, 12073 in all, are:
+= -- 1128
+> -- 394
+< -- 10
++ -- 161
+- -- 130
+* -- 1307
+:= -- 1675
+add.period$ -- 81
+call.type$ -- 27
+change.case$ -- 143
 chr.to.int$ -- 0
-cite$ -- 16
-duplicate$ -- 384
-empty$ -- 671
-format.name$ -- 150
-if$ -- 1575
+cite$ -- 28
+duplicate$ -- 630
+empty$ -- 1127
+format.name$ -- 248
+if$ -- 2596
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 20
-newline$ -- 87
-num.names$ -- 30
-pop$ -- 108
+int.to.str$ -- 27
+missing$ -- 42
+newline$ -- 143
+num.names$ -- 54
+pop$ -- 183
 preamble$ -- 1
-purify$ -- 69
+purify$ -- 119
 quote$ -- 0
-skip$ -- 219
+skip$ -- 346
 stack$ -- 0
-substring$ -- 389
-swap$ -- 180
-text.length$ -- 8
+substring$ -- 613
+swap$ -- 277
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 56
+type$ -- 96
 warning$ -- 1
-while$ -- 56
-width$ -- 17
-write$ -- 209
+while$ -- 91
+width$ -- 29
+write$ -- 356
 (There was 1 error message)

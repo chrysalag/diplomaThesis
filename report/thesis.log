@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  7 NOV 2015 16:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.3)  9 NOV 2015 21:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -612,55 +612,30 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks47
 \@floatcapt=\box60
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count135
-\lst@gtempboxa=\box61
-\lst@token=\toks48
-\lst@length=\count136
-\lst@currlwidth=\dimen180
-\lst@column=\count137
-\lst@pos=\count138
-\lst@lostspace=\dimen181
-\lst@width=\dimen182
-\lst@newlines=\count139
-\lst@lineno=\count140
-\lst@maxwidth=\dimen183
-
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
-\c@lstnumber=\count141
-\lst@skipnumbers=\count142
-\lst@framebox=\box62
-)
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
-))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
-
 (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count143
+\c@KVtest=\count135
 \sf@farskip=\skip61
-\sf@captopadj=\dimen184
+\sf@captopadj=\dimen180
 \sf@capskip=\skip62
 \sf@nearskip=\skip63
-\c@subfigure=\count144
-\c@subfigure@save=\count145
-\c@lofdepth=\count146
-\c@subtable=\count147
-\c@subtable@save=\count148
-\c@lotdepth=\count149
+\c@subfigure=\count136
+\c@subfigure@save=\count137
+\c@lofdepth=\count138
+\c@subtable=\count139
+\c@subtable@save=\count140
+\c@lotdepth=\count141
 \sf@top=\skip64
 \sf@bottom=\skip65
 )
 (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
-\@float@every@algorithm=\toks49
-\c@algorithm=\count150
+\@float@every@algorithm=\toks48
+\c@algorithm=\count142
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
@@ -668,17 +643,17 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTright=\skip67
 \LTpre=\skip68
 \LTpost=\skip69
-\LTchunksize=\count151
-\LTcapwidth=\dimen185
-\LT@head=\box63
-\LT@firsthead=\box64
-\LT@foot=\box65
-\LT@lastfoot=\box66
-\LT@cols=\count152
-\LT@rows=\count153
-\c@LT@tables=\count154
-\c@LT@chunks=\count155
-\LT@p@ftn=\toks50
+\LTchunksize=\count143
+\LTcapwidth=\dimen181
+\LT@head=\box61
+\LT@firsthead=\box62
+\LT@foot=\box63
+\LT@lastfoot=\box64
+\LT@cols=\count144
+\LT@rows=\count145
+\c@LT@tables=\count146
+\c@LT@chunks=\count147
+\LT@p@ftn=\toks49
 )
 (/usr/share/texlive/texmf-dist/tex/latex/bbm-macros/bbm.sty
 Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
@@ -693,7 +668,7 @@ Package: babelbib 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
 (/usr/share/texlive/texmf-dist/tex/latex/babelbib/greek.bdf
 File: greek.bdf 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
 )
-\c@btxromaniannumeral=\count156
+\c@btxromaniannumeral=\count148
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
@@ -707,9 +682,9 @@ Package: epigraph 2009/09/02 v1.5c typesetting epigraphs
 )
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count157
-\c@@ppsavesec=\count158
-\c@@ppsaveapp=\count159
+\c@@pps=\count149
+\c@@ppsavesec=\count150
+\c@@ppsaveapp=\count151
 )
 (/usr/share/texlive/texmf-dist/tex/latex/paralist/paralist.sty
 Package: paralist 2013/06/09 v2.4 Extended list environments
@@ -717,7 +692,7 @@ Package: paralist 2013/06/09 v2.4 Extended list environments
 \plpartopsep=\skip75
 \plitemsep=\skip76
 \plparsep=\skip77
-\pl@lab=\toks51
+\pl@lab=\toks50
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
@@ -727,22 +702,22 @@ LaTeX Info: The control sequence `\]' is already robust on input line 472.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2013/03/14 v1.64 (Daniel Flipo)
-\c@DefaultLines=\count160
-\DefaultFindent=\dimen186
-\DefaultNindent=\dimen187
-\DefaultSlope=\dimen188
-\L@lbox=\box67
-\L@tbox=\box68
-\c@L@lines=\count161
-\L@Pindent=\dimen189
-\L@Findent=\dimen190
-\L@Nindent=\dimen191
-\L@lraise=\dimen192
-\L@first=\dimen193
-\L@next=\dimen194
-\L@slope=\dimen195
-\L@height=\dimen196
-\LettrineWidth=\dimen197
+\c@DefaultLines=\count152
+\DefaultFindent=\dimen182
+\DefaultNindent=\dimen183
+\DefaultSlope=\dimen184
+\L@lbox=\box65
+\L@tbox=\box66
+\c@L@lines=\count153
+\L@Pindent=\dimen185
+\L@Findent=\dimen186
+\L@Nindent=\dimen187
+\L@lraise=\dimen188
+\L@first=\dimen189
+\L@next=\dimen190
+\L@slope=\dimen191
+\L@height=\dimen192
+\LettrineWidth=\dimen193
 
 Loading lettrine.cfg
 (/usr/share/texlive/texmf-dist/tex/latex/lettrine/lettrine.cfg))
@@ -754,22 +729,22 @@ Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen198
-\extrarowheight=\dimen199
-\NC@list=\toks52
+\col@sep=\dimen194
+\extrarowheight=\dimen195
+\NC@list=\toks51
 \extratabsurround=\skip78
 \backup@length=\skip79
 )
-\everycr=\toks53
+\everycr=\toks52
 \minrowclearance=\skip80
 )
 (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-\c@r@tfl@t=\count162
+\c@r@tfl@t=\count154
 \rotFPtop=\skip81
 \rotFPbot=\skip82
-\rot@float@box=\box69
-\rot@mess@toks=\toks54
+\rot@float@box=\box67
+\rot@mess@toks=\toks53
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
@@ -779,6 +754,92 @@ Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/inconsolata/inconsolata.sty
+Package: inconsolata 2013/06/09 zi4a
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
+\zifour@ocount=\count155
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fncychap/fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
@@ -865,14 +926,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen200
-\Hy@linkcounter=\count163
-\Hy@pagecounter=\count164
+\@linkdim=\dimen196
+\Hy@linkcounter=\count156
+\Hy@pagecounter=\count157
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count165
+\Hy@SavedSpaceFactor=\count158
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -886,17 +947,17 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks OFF on input line 4694.
-\c@Hy@tempcnt=\count166
+\c@Hy@tempcnt=\count159
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen201
-\Fld@menulength=\count167
-\Field@Width=\dimen202
-\Fld@charsize=\dimen203
+\XeTeXLinkMargin=\dimen197
+\Fld@menulength=\count160
+\Field@Width=\dimen198
+\Fld@charsize=\dimen199
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -906,17 +967,17 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count168
-\c@Item=\count169
-\c@Hfootnote=\count170
+\Hy@abspage=\count161
+\c@Item=\count162
+\c@Hfootnote=\count163
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count171
-\c@bookmark@seq@number=\count172
+\Fld@listcount=\count164
+\c@bookmark@seq@number=\count165
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
@@ -925,11 +986,42 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip90
 )
-\c@theorem=\count173
-\c@lemma=\count174
-\c@definition=\count175
-\c@example=\count176
-\c@ntechnique=\count177
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count166
+\lst@gtempboxa=\box68
+\lst@token=\toks54
+\lst@length=\count167
+\lst@currlwidth=\dimen200
+\lst@column=\count168
+\lst@pos=\count169
+\lst@lostspace=\dimen201
+\lst@width=\dimen202
+\lst@newlines=\count170
+\lst@lineno=\count171
+\lst@maxwidth=\dimen203
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count172
+\lst@skipnumbers=\count173
+\lst@framebox=\box69
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+\c@theorem=\count174
+\c@lemma=\count175
+\c@definition=\count176
+\c@example=\count177
+\c@ntechnique=\count178
 \@indexfile=\write5
 \openout5 = `thesis.idx'.
 
@@ -963,13 +1055,21 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 6.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Try loading font information for OT1+mak on input line 6.
- (/usr/share/texlive/texmf-dist/tex/latex/kerkis/ot1mak.fd)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kerkis/ot1mak.fd)
 LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 6.
 LaTeX Font Info:    Try loading font information for LGR+mak on input line 6.
+
 (/usr/share/texlive/texmf-dist/tex/latex/kerkis/lgrmak.fd)
 LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 6.
@@ -1055,16 +1155,16 @@ LGR\textaristerikeraia already defined.
 fontencoding LGR patched
 ) (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count178
+\scratchcounter=\count179
 \scratchdimen=\dimen204
 \scratchbox=\box70
-\nofMPsegments=\count179
-\nofMParguments=\count180
+\nofMPsegments=\count180
+\nofMParguments=\count181
 \everyMPshowfont=\toks55
-\MPscratchCnt=\count181
+\MPscratchCnt=\count182
 \MPscratchDim=\dimen205
-\MPnumerator=\count182
-\makeMPintoPDFobject=\count183
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
 \everyMPtoPDFconversion=\toks56
 ) ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -1094,7 +1194,6 @@ Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count184
 
 babelbib extension \bibsgreek added to \extrasgreek
 babelbib extension \btxifchangecaseoff added to \extrasgreek
@@ -1105,10 +1204,14 @@ File: english.bdf 2012/01/03 v1.31 babelbib: multilingual bibliographies (HH)
 
 babelbib extension \bibsenglish added to \extrasenglish
 babelbib extension \btxifchangecaseon added to \extrasenglish
+) (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
 )
 \AtBeginShipoutBox=\box71
 Package hyperref Info: Link coloring ON on input line 6.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1119,6 +1222,7 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
+\c@lstlisting=\count186
 \openout2 = `titlepage.aux'.
 
 
@@ -1160,35 +1264,69 @@ LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
 (Font)              scaled to size 22.39185pt on input line 1.
 LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
 (Font)              scaled to size 22.39185pt on input line 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
 ) [3]
 \openout2 = `acknowledge.aux'.
 
-
-(./acknowledge.tex
+ (./acknowledge.tex
 LaTeX Font Info:    Font shape `OT1/mak/bx/n' will be
 (Font)              scaled to size 8.99994pt on input line 1.
  [4
 
 
 
-]) [5] [6
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+) [5] [6
 
 
 ] (./thesis.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OMS+rsfs on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+rsfs on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/calrsfs/OMSrsfs.fd)
-LaTeX Font Info:    Try loading font information for U+stmry on input line 5.
+LaTeX Font Info:    Try loading font information for U+stmry on input line 6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/stmaryrd/Ustmry.fd) [7])
 \tf@toc=\write6
@@ -1235,26 +1373,40 @@ Overfull \hbox (4.48334pt too wide) in paragraph at lines 12--13
 LaTeX Font Info:    Font shape `LGR/mak/bx/n' will be
 (Font)              scaled to size 10.79993pt on input line 19.
 [6]
-LaTeX Font Info:    Try loading font information for OMS+mak on input line 24.
- (/usr/share/texlive/texmf-dist/tex/latex/kerkis/omsmak.fd
-File: omsmak.fd 
-)
-LaTeX Font Info:    Font shape `OMS/mak/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 24.
- [7] [8] [9]
-[10]) [11]
+LaTeX Font Info:    Try loading font information for TS1+mak on input line 24.
+LaTeX Font Info:    No file TS1mak.fd. on input line 24.
+
+
+LaTeX Font Warning: Font shape `TS1/mak/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead
+(Font)              for symbol `textbullet' on input line 24.
+
+[7] [8] [9] [10]
+LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 53.
+LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 53.
+LaTeX Font Info:    Try loading font information for OT1+maksf on input line 53
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/kerkis/ot1maksf.fd)
+LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 53.
+
+[11]) [12]
 \openout2 = `chapter_3.aux'.
 
- (./chapter_3.tex [12
-
-
-
-]
+ (./chapter_3.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  3.
 LaTeX Font Info:    Font shape `OT1/mak/bx/n' will be
 (Font)              scaled to size 22.39185pt on input line 1.
-[13]
+[13
+
+
+
+]
+LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 14.
 LaTeX Font Info:    Try loading font information for OMS+zplm on input line 21.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
@@ -1262,48 +1414,49 @@ File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 
 LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
-(Font)              using `U/stmry/m/n' instead on input line 26.
+(Font)              using `U/stmry/m/n' instead on input line 28.
 
 [14]
-Overfull \hbox (0.49377pt too wide) in paragraph at lines 40--41
+Overfull \hbox (0.49377pt too wide) in paragraph at lines 42--43
 []\LGR/mak/m/n/10 To mh-tr¸o ˆme-shc su-sqèti-shc $\OT1/cmr/bx/n/10 C$ \LGR/mak
 /m/n/10 sto-qe-Ôei sto na a-pei-ko-nÐsei tic ˆme-sec sqèseic
  []
 
 [15]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 67.
+put line 69.
 LaTeX Font Info:    Font shape `LGR/mak/m/it' will be
-(Font)              scaled to size 8.99994pt on input line 79.
+(Font)              scaled to size 8.99994pt on input line 81.
 LaTeX Font Info:    Font shape `OT1/mak/m/it' will be
-(Font)              scaled to size 8.99994pt on input line 80.
-LaTeX Font Info:    Font shape `LGR/mak/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 83.
+(Font)              scaled to size 8.99994pt on input line 82.
  [16] [17]
-Underfull \vbox (badness 10000) detected at line 158
+Underfull \vbox (badness 10000) detected at line 160
  []
 
 
-Overfull \vbox (13.08382pt too high) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-[18]
-Overfull \hbox (10.34125pt too wide) in paragraph at lines 160--161
+ [18]
+Overfull \hbox (10.34125pt too wide) in paragraph at lines 162--163
 []\LGR/mak/m/n/10 Gia to de-Ôte-ro to-mèa, ta pei-rˆma-ta ègi-nan sto sÔbo-lo d
 e-do-mènwn \OT1/mak/m/n/10 Yaho-o!R2Music
  []
 
 
-Underfull \vbox (badness 10000) detected at line 170
+Underfull \vbox (badness 10000) detected at line 172
  []
 
 [19]
-Overfull \hbox (5.74039pt too wide) in paragraph at lines 200--200
+Overfull \hbox (5.74039pt too wide) in paragraph at lines 201--201
 []\LGR/mak/m/n/10 Sumperasmatikˆ, o al-gìrij-moc \OT1/mak/m/n/10 H-IR \LGR/mak/
 m/n/10 e-kme-tal-le-Ôe-tai a-po-te-le-sma-ti-kˆ tic sqèseic
  []
 
-[20]) [21]
+
+Underfull \vbox (badness 2521) has occurred while \output is active []
+
+ [20])
+[21]
 \openout2 = `chapter_4.aux'.
 
  (./chapter_4.tex [22
@@ -1313,16 +1466,6 @@ m/n/10 e-kme-tal-le-Ôe-tai a-po-te-le-sma-ti-kˆ tic sqèseic
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  4.
-LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 6.
-LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 6.
-LaTeX Font Info:    Try loading font information for OT1+maksf on input line 6.
-
-(/usr/share/texlive/texmf-dist/tex/latex/kerkis/ot1maksf.fd)
-LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 6.
-
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-0.def
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 ) [23]
@@ -1337,78 +1480,175 @@ ou ge-Ðto-na (eÐdouc-eÐdouc kai qr sth-
 [25] [26]
 LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
 (Font)              scaled to size 5.39996pt on input line 46.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [27]
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[][][][][]$\OT1/maksf/m/n/9 http : / / lenskit . org / apidocs / org / grouplen
-s / lenskit / transform / normalize /
- []
+[28]
+Underfull \vbox (badness 1810) has occurred while \output is active []
 
-
-Underfull \vbox (badness 3977) has occurred while \output is active []
-
- [28]
-[29] [30]) [31] [32]
+ [29]
+[30]) [31]
 \openout2 = `chapter_5.aux'.
 
- (./chapter_5.tex
-\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
-extiota \textomicron  5.
-) [33
+ (./chapter_5.tex [32
 
 
 
 ]
+\textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
+extiota \textomicron  5.
+
+Overfull \hbox (0.60242pt too wide) in paragraph at lines 3--4
+[]\LGR/mak/m/n/10 Sto ke-fˆlaio au-tì pa-rou-si-ˆze-tai h u-lo-po-Ðh-sh tou al-
+go-rÐj-mou \OT1/mak/m/n/10 H-IR\LGR/mak/m/n/10 . H ulopoÐ-
+ []
+
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 7.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+[33]
+Overfull \hbox (3.40335pt too wide) in paragraph at lines 22--23
+\LGR/mak/m/n/10 proswpeÔoun e-Ðdh ta o-po-Ða èqei dei e-pi-strèfon-tai wc a-po-
+tèle-sma thc kl shc
+ []
+
+[34]
+Overfull \hbox (28.79973pt too wide) in paragraph at lines 41--41
+[]\OT1/pcr/m/n/7 public void putItemPair(long id1, SparseVector itemVec1, long 
+id2, SparseVector itemVec2)[] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/mak/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 50.
+[35] [36]
+LaTeX Font Info:    Font shape `OT1/mak/m/sc' will be
+(Font)              scaled to size 8.99994pt on input line 94.
+) [37]
 \openout2 = `chapter_6.aux'.
 
- (./chapter_6.tex [34
+ (./chapter_6.tex [38
 
 
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  6.
-) [35]
+) [39]
 \openout2 = `codeFiles.aux'.
 
- (./codeFiles.tex [36
+ (./codeFiles.tex [40
 
 
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  7.
-) [37]
-\openout2 = `terminology.aux'.
 
- (./terminology.tex [38
+Underfull \hbox (badness 10000) in paragraph at lines 2--7
 
+ []
 
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 7.
+(./code/HIRItemScorer.java [41]) [42] (./code/HIRModel.java) [43
 
 ]
+(./code/HIRModelBuilder.java) [44
+
+] (./code/DirectAssociationMatrix.java)
+[45
+
+] (./code/RowStochasticFactorOfProximity.java) [46
+
+]
+(./code/TransposedFactorOfProximity.java) [47
+
+]
+(./code/DirectAssociationParameter.java) (./code/ProximityParameter.java)
+(./code/ItemGenreDAO.java) [48] (./code/MapItemGenreDAO.java
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [49
+
+])
+(./code/CSVFileItemGenreDAOProvider.java) [50] (./code/HelloLenskit.java
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [51])
+(./hir.groovy) [52] (./code/MapItemGenreDAOTest.java
+LaTeX Font Info:    Try loading font information for TS1+pcr on input line 18.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1pcr.fd
+File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
+)) [53
+
+]
+(./code/HIRItemRecommenderTest.java
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [54
+
+])
+[55] (./code/HIRModelBuilderTest.java
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [56
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [57]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [58])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [59]
+(./code/HIRItemScorerTest.java
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+ [60])
+(./build.gradle) [61]
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(./code/retrieveGenres.py) (./code/range.py [62
+
+]) (./code/ratings.py)
+(./testfun.m [63])) [64]
+\openout2 = `terminology.aux'.
+
+ (./terminology.tex
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  8.
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 5--11
+Overfull \hbox (164.51305pt too wide) in alignment at lines 5--11
  [] [] 
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 11--18
+Overfull \hbox (164.51305pt too wide) in alignment at lines 11--18
  [] [] 
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 18--22
+Overfull \hbox (164.51305pt too wide) in alignment at lines 18--22
  [] [] 
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 22--26
+Overfull \hbox (164.51305pt too wide) in alignment at lines 22--26
  [] [] 
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 26--54
+Overfull \hbox (164.51305pt too wide) in alignment at lines 26--54
  [] [] 
  []
 
@@ -1417,60 +1657,64 @@ Underfull \vbox (badness 10000) detected at line 54
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 54--79
+Overfull \hbox (164.51305pt too wide) in alignment at lines 54--79
  [] [] 
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 79--104
+Overfull \hbox (164.51305pt too wide) in alignment at lines 79--104
  [] [] 
  []
 
-[39]
-Overfull \hbox (160.31912pt too wide) in alignment at lines 104--129
+[65
+
+
+
+]
+Overfull \hbox (164.51305pt too wide) in alignment at lines 104--128
  [] [] 
  []
 
 
-Overfull \hbox (160.31912pt too wide) in alignment at lines 129--146
+Overfull \hbox (164.51305pt too wide) in alignment at lines 128--151
  [] [] 
  []
 
-[40] [41] [42
+[66] [67] [68
 
 ]
 \textKappa \textepsilon \textphi \acctonos \textalpha \textlambda \textalpha \t
 extiota \textomicron  9.
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 155--161
+Overfull \hbox (59.06192pt too wide) in alignment at lines 160--166
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 161--170
+Overfull \hbox (59.06192pt too wide) in alignment at lines 166--175
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 170--174
+Overfull \hbox (59.06192pt too wide) in alignment at lines 175--179
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 174--178
+Overfull \hbox (59.06192pt too wide) in alignment at lines 179--183
  [] [] 
  []
 
 
-Overfull \hbox (50.24202pt too wide) in alignment at lines 178--223
+Overfull \hbox (59.06192pt too wide) in alignment at lines 183--231
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 223
+Underfull \vbox (badness 10000) detected at line 231
  []
 
-) [43] (./thesis.bbl [44
+) [69] (./thesis.bbl [70
 
 
 ]
@@ -1486,18 +1730,28 @@ babelbib: Using the BibTeX style's default font for `ISSN'.
 babelbib: Using the BibTeX style's default font for `url'.
 babelbib: Using the BibTeX style's default font for `numeral'.
 
-Underfull \hbox (badness 2689) in paragraph at lines 34--42
+Underfull \hbox (badness 1496) in paragraph at lines 17--22
+\OT1/mak/m/n/10 tice Hall PTR, Up-per Sad-dle River, NJ, USA, 2nd edi-tion, 200
+8,
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 33--41
+\OT1/mak/m/it/10 sur-ing Re-la-tions in Small So-cial Groups\OT1/mak/m/n/10 .  
+Au-tom. Re-mote Con-trol.,
+ []
+
+[71]
+Underfull \hbox (badness 2689) in paragraph at lines 115--123
 \OT1/mak/m/n/10 Wesley Long-man Pub-lish-ing Co., Inc., Boston, MA, USA, 1995,
  []
 
-[45]
+[72]
 LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
-(Font)              scaled to size 5.39996pt on input line 125.
+(Font)              scaled to size 5.39996pt on input line 220.
 LaTeX Font Info:    Font shape `OT1/maksf/m/n' will be
-(Font)              scaled to size 4.49997pt on input line 125.
- [46]) [47] [48
-
-]
+(Font)              scaled to size 4.49997pt on input line 220.
+ [73]) [74]
 No file thesis.ind.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 55.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 55.
@@ -1516,40 +1770,42 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 55.
  ) 
 Here is how much of TeX's memory you used:
- 24104 strings out of 493304
- 427037 string characters out of 6139871
- 556264 words of memory out of 5000000
- 26735 multiletter control sequences out of 15000+600000
- 52046 words of font info for 133 fonts, out of 8000000 for 9000
+ 27914 strings out of 493304
+ 480393 string characters out of 6139871
+ 667798 words of memory out of 5000000
+ 29151 multiletter control sequences out of 15000+600000
+ 55320 words of font info for 143 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 58i,13n,56p,2490b,1044s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,13n,56p,2900b,2189s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/kerkis/kerkis.enc}{/usr/share/
-texlive/texmf-dist/fonts/enc/dvips/kerkis/gpkerkis.enc}{/usr/share/texlive/texm
-f-dist/fonts/enc/dvips/kerkis/kmsym.enc}{/usr/share/texlive/texmf-dist/fonts/en
-c/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Ke
-rkis-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis-I
-talic.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis-Small
-Caps.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/KerkisSans-Bold.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/kerkis/KerkisSans.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cmextra/cmmib7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/kerkis/ktsy.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on thesis.pdf (55 pages, 324297 bytes).
+texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/f
+onts/enc/dvips/kerkis/gpkerkis.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/c
+m-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis
+-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis-Itali
+c.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis-SmallCaps
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kerkis/Kerkis.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/kerkis/KerkisSans-Bold.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/kerkis/KerkisSans.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cmextra/cmmib7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
+es/utmr8a.pfb>
+Output written on thesis.pdf (81 pages, 450042 bytes).
 PDF statistics:
- 615 PDF objects out of 1000 (max. 8388607)
- 531 compressed objects within 6 object streams
- 162 named destinations out of 1000 (max. 500000)
+ 2316 PDF objects out of 2487 (max. 8388607)
+ 2188 compressed objects within 22 object streams
+ 1447 named destinations out of 1728 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,6 +13,13 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \btxselectlanguage {english}
+\bibitem {Bloch:2008:EJ:1377533}
+\btxnamefont {\btxlastnamefont {Bloch}, Joshua}\btxauthorcolon\ \btxtitlefont
+  {Effective Java (2Nd Edition) (The Java Series)}.
+\newblock \btxpublisherfont {Prentice Hall PTR}, Upper Saddle River, NJ, USA,
+  \btxeditionnumlong {2}{}, 2008\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {0321356683, 9780321356680}}}.
+
 \bibitem {Burke:2007:HWR:1768197.1768211}
 \btxnamefont {\btxlastnamefont {Burke}, Robin}\btxauthorcolon\ \btxtitlefont
   {\btxifchangecase {The adaptive web}{The Adaptive Web}}.
@@ -22,6 +29,29 @@
 \newblock {\latintext
   \btxurlfont{http://dl.acm.org/citation.cfm?id=1768197.1768211}}.
 
+\bibitem {Chebotarev:927673}
+\btxnamefont {\btxlastnamefont {Chebotarev}, P} \btxandlong {}\ \btxnamefont {E
+  \btxlastnamefont {Shamis}}\btxauthorcolon\ \btxjtitlefont {\btxifchangecase
+  {{The Matrix-Forest Theorem and Measuring Relations in Small Social
+  Groups}}{{The Matrix-Forest Theorem and Measuring Relations in Small Social
+  Groups}}}.
+\newblock \btxjournalfont {Autom. Remote Control.}, 58(math.CO/0602070.
+  9):1505--1514. 10 p, \btxprintmonthyear{.}{Feb}{2006}{long}.
+\newblock {\latintext \btxurlfont{http://cds.cern.ch/record/927673}}.
+
+\bibitem {Cremonesi:2010:PRA:1864708.1864721}
+\btxnamefont {\btxlastnamefont {Cremonesi}, Paolo}, \btxnamefont {Yehuda
+  \btxlastnamefont {Koren}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Roberto \btxlastnamefont {Turrin}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Performance of recommender algorithms on top-n
+  recommendation tasks}{Performance of Recommender Algorithms on Top-n
+  Recommendation Tasks}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the Fourth ACM
+  Conference on Recommender Systems}, RecSys '10, \btxpageslong {}\ 39--46, New
+  York, NY, USA, 2010. \btxpublisherfont {ACM}\ifbtxprintISBN {,
+  \mbox{\btxISBN~\btxISBNfont {978-1-60558-906-0}}}.
+\newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/1864708.1864721}}.
+
 \bibitem {ekstrand_towards_2014}
 \btxnamefont {\btxlastnamefont {Ekstrand}, Michael\btxfnamespacelong
   D.}\btxauthorcolon\ \btxtitlefont {Towards Recommender Engineering: Tools and
@@ -29,6 +59,57 @@
 \newblock \btxifchangecase {Ph.d thesis}{Ph.D Thesis}, University of Minnesota,
   Minneapolis, {MN}, \btxprintmonthyear{.}{7}{2014}{long}.
 \newblock {\latintext \btxurlfont{http://md.ekstrandom.net/research/thesis/}}.
+
+\bibitem {Ekstrand:2011:RRR:2043932.2043958}
+\btxnamefont {\btxlastnamefont {Ekstrand}, Michael\btxfnamespacelong D.},
+  \btxnamefont {Michael \btxlastnamefont {Ludwig}}, \btxnamefont
+  {Joseph\btxfnamespacelong A. \btxlastnamefont {Konstan}}\btxandcomma {}
+  \btxandlong {}\ \btxnamefont {John\btxfnamespacelong T. \btxlastnamefont
+  {Riedl}}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Rethinking the
+  recommender research ecosystem: Reproducibility, openness, and
+  lenskit}{Rethinking the Recommender Research Ecosystem: Reproducibility,
+  Openness, and LensKit}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Proceedings of the Fifth ACM Conference
+  on Recommender Systems}, RecSys '11, \btxpageslong {}\ 133--140, New York,
+  NY, USA, 2011. \btxpublisherfont {ACM}\ifbtxprintISBN {,
+  \mbox{\btxISBN~\btxISBNfont {978-1-4503-0683-6}}}.
+\newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/2043932.2043958}}.
+
+\bibitem {Fouss:2007:RCS:1263132.1263335}
+\btxnamefont {\btxlastnamefont {Fouss}, Francois}, \btxnamefont {Alain
+  \btxlastnamefont {Pirotte}}, \btxnamefont {Jean\btxfnamespacelong Michel
+  \btxlastnamefont {Renders}}\btxandcomma {} \btxandlong {}\ \btxnamefont
+  {Marco \btxlastnamefont {Saerens}}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {Random-walk computation of similarities between nodes of a
+  graph with application to collaborative recommendation}{Random-Walk
+  Computation of Similarities Between Nodes of a Graph with Application to
+  Collaborative Recommendation}}.
+\newblock \btxjournalfont {IEEE Trans. on Knowl. and Data Eng.},
+  19(3):355--369, \btxprintmonthyear{.}{3}{2007}{long}\ifbtxprintISSN {,
+  \mbox{\btxISSN~\btxISSNfont {1041-4347}}}.
+\newblock {\latintext \btxurlfont{http://dx.doi.org/10.1109/TKDE.2007.46}}.
+
+\bibitem {Fouss201253}
+\btxnamefont {\btxlastnamefont {Fouss}, François}, \btxnamefont {Kevin
+  \btxlastnamefont {Francoisse}}, \btxnamefont {Luh \btxlastnamefont {Yen}},
+  \btxnamefont {Alain \btxlastnamefont {Pirotte}}\btxandcomma {} \btxandlong
+  {}\ \btxnamefont {Marco \btxlastnamefont {Saerens}}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {An experimental investigation of kernels on
+  graphs for collaborative recommendation and semisupervised classification}{An
+  experimental investigation of kernels on graphs for collaborative
+  recommendation and semisupervised classification}}.
+\newblock \btxjournalfont {Neural Networks}, 31:53 -- 72, 2012\ifbtxprintISSN
+  {, \mbox{\btxISSN~\btxISSNfont {0893-6080}}}.
+\newblock {\latintext
+  \btxurlfont{http://www.sciencedirect.com/science/article/pii/S0893608012000822}}.
+
+\bibitem {furnell2000proceedings}
+\btxnamefont {\btxlastnamefont {Furnell}, S.}\btxauthorcolon\ \btxtitlefont
+  {Proceedings of the Second International Network Conference (INC2000)}.
+\newblock \btxpublisherfont {University of Plymouth}, 2000\ifbtxprintISBN {,
+  \mbox{\btxISBN~\btxISBNfont {9781841020662}}}.
+\newblock {\latintext
+  \btxurlfont{https://books.google.gr/books?id=OLrZAwAAQBAJ}}.
 
 \bibitem {Gamma:1995:DPE:186897}
 \btxnamefont {\btxlastnamefont {Gamma}, Erich}, \btxnamefont {Richard
@@ -82,6 +163,20 @@
   international ACM SIGIR conference on Research and development in informaion
   retrieval}, \btxpageslong {}\ 259--266. ACM, 2003.
 
+\bibitem {RePEc:spr:psycho:v:18:y:1953:i:1:p:39-43}
+\btxnamefont {\btxlastnamefont {Katz}, Leo}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {A new status index derived from sociometric analysis}{A
+  new status index derived from sociometric analysis}}.
+\newblock \btxjournalfont {Psychometrika}, 18(1):39--43,
+  \btxprintmonthyear{.}{March}{1953}{long}.
+\newblock {\latintext
+  \btxurlfont{http://ideas.repec.org/a/spr/psycho/v18y1953i1p39-43.html}}.
+
+\bibitem {Kendall1948}
+\btxnamefont {\btxlastnamefont {Kendall}, M.}\btxauthorcolon\ \btxjtitlefont
+  {\btxifchangecase {{Rank Correlation Methods}}{{Rank Correlation Methods}}}.
+\newblock \btxjournalfont {Charles Griffin \& Company Limited}, 1948.
+
 \bibitem {Konstan:2015:TRS:2744768.2728171}
 \btxnamefont {\btxlastnamefont {Konstan}, Joseph\btxfnamespacelong A.},
   \btxnamefont {J.\btxfnamespacelong D. \btxlastnamefont {Walker}},
@@ -124,6 +219,13 @@
   \btxpageslong {}\ 258--262, 2003.
 \newblock {\latintext \btxurlfont{http://dx.doi.org/10.1007/3-540-44963-9_34}}.
 
+\bibitem {mcdonald:statistics}
+\btxnamefont {\btxlastnamefont {McDonald}, John\btxfnamespacelong
+  H.}\btxauthorcolon\ \btxtitlefont {{Handbook of Biological Statistics}}.
+\newblock \btxpublisherfont {Sparky House Publishing}, Baltimore, Maryland,
+  USA, \btxeditionnumlong {third}{}, 2014.
+\newblock {\latintext \btxurlfont{http://udel.edu/~mcdonald/statintro.html}}.
+
 \bibitem {Nikolakopoulos:2013:NNR:2433396.2433415}
 \btxnamefont {\btxlastnamefont {Nikolakopoulos}, Athanasios\btxfnamespacelong
   N.} \btxandlong {}\ \btxnamefont {John\btxfnamespacelong D. \btxlastnamefont
@@ -165,6 +267,13 @@
   \btxtitlefont {Recommender systems handbook}.
 \newblock \btxpublisherfont {Springer}, 2011.
 
+\bibitem {citeulike:1055526}
+\btxnamefont {\btxlastnamefont {Siegel}, S.} \btxandlong {}\ \btxnamefont
+  {N.\btxfnamespacelong J. \btxlastnamefont {Castellan}}\btxauthorcolon\
+  \btxtitlefont {Non Parametric Statistics for the Behavioral Sciences}.
+\newblock \btxpublisherfont {McGraw-Hill International}, \btxeditionnumlong
+  {2nd}{}, 1988.
+
 \bibitem {conf/delos/SinhaS01}
 \btxnamefont {\btxlastnamefont {Sinha}, Rashmi\btxfnamespacelong R.}
   \btxandlong {}\ \btxnamefont {Kirsten \btxlastnamefont
@@ -187,5 +296,12 @@
   \btxprintmonthyear{.}{12}{2007}{long}\ifbtxprintISSN {,
   \mbox{\btxISSN~\btxISSNfont {1931-0145}}}.
 \newblock {\latintext \btxurlfont{http://doi.acm.org/10.1145/1345448.1345466}}.
+
+\bibitem {Yao95measuringretrieval}
+\btxnamefont {\btxlastnamefont {Yao}, Y.\btxfnamespacelong Y.}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Measuring retrieval effectiveness based on
+  user preference of documents}{Measuring retrieval effectiveness based on user
+  preference of documents}}.
+\newblock \btxjournalfont {J. Am. Soc. Inf. Sci}, 1995.
 
 \end{thebibliography}
