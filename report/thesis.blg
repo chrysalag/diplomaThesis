@@ -3,13 +3,13 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: titlepage.aux
 A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: abstract_en.aux
 A level-1 auxiliary file: acknowledge.aux
 A level-1 auxiliary file: chapter_1.aux
 A level-1 auxiliary file: chapter_2.aux
 A level-1 auxiliary file: chapter_3.aux
 A level-1 auxiliary file: chapter_4.aux
 A level-1 auxiliary file: chapter_5.aux
-A level-1 auxiliary file: chapter_6.aux
 A level-1 auxiliary file: codeFiles.aux
 A level-1 auxiliary file: terminology.aux
 The style file: babplain.bst
@@ -19,45 +19,45 @@ refers to entry "DBLP:conf/um/2003", which doesn't exist
 Warning--I didn't find a database entry for "DBLP:conf/um/2003"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty booktitle in Burke:2007:HWR:1768197.1768211
-You've used 27 entries,
+You've used 29 entries,
             2788 wiz_defined-function locations,
-            875 strings with 13725 characters,
-and the built_in function-call counts, 12073 in all, are:
-= -- 1128
-> -- 394
+            891 strings with 14063 characters,
+and the built_in function-call counts, 12708 in all, are:
+= -- 1190
+> -- 408
 < -- 10
-+ -- 161
-- -- 130
-* -- 1307
-:= -- 1675
-add.period$ -- 81
-call.type$ -- 27
-change.case$ -- 143
++ -- 167
+- -- 134
+* -- 1375
+:= -- 1770
+add.period$ -- 86
+call.type$ -- 29
+change.case$ -- 151
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 630
-empty$ -- 1127
-format.name$ -- 248
-if$ -- 2596
+cite$ -- 30
+duplicate$ -- 663
+empty$ -- 1193
+format.name$ -- 254
+if$ -- 2732
 int.to.chr$ -- 0
-int.to.str$ -- 27
-missing$ -- 42
-newline$ -- 143
-num.names$ -- 54
-pop$ -- 183
+int.to.str$ -- 29
+missing$ -- 46
+newline$ -- 152
+num.names$ -- 58
+pop$ -- 192
 preamble$ -- 1
-purify$ -- 119
+purify$ -- 125
 quote$ -- 0
-skip$ -- 346
+skip$ -- 363
 stack$ -- 0
-substring$ -- 613
-swap$ -- 277
+substring$ -- 642
+swap$ -- 286
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
+type$ -- 102
 warning$ -- 1
-while$ -- 91
-width$ -- 29
-write$ -- 356
+while$ -- 97
+width$ -- 31
+write$ -- 381
 (There was 1 error message)

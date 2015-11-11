@@ -226,6 +226,22 @@
   USA, \btxeditionnumlong {third}{}, 2014.
 \newblock {\latintext \btxurlfont{http://udel.edu/~mcdonald/statintro.html}}.
 
+\bibitem {Mitchell:1997:ML:541177}
+\btxnamefont {\btxlastnamefont {Mitchell}, Thomas\btxfnamespacelong
+  M.}\btxauthorcolon\ \btxtitlefont {Machine Learning}.
+\newblock \btxpublisherfont {McGraw-Hill, Inc.}, New York, NY, USA,
+  \btxeditionnumlong {1}{}, 1997\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {0070428077, 9780070428072}}}.
+
+\bibitem {Mladenic:1999:TRI:630307.630472}
+\btxnamefont {\btxlastnamefont {Mladenic}, Dunja}\btxauthorcolon\
+  \btxjtitlefont {\btxifchangecase {Text-learning and related intelligent
+  agents: A survey}{Text-Learning and Related Intelligent Agents: A Survey}}.
+\newblock \btxjournalfont {IEEE Intelligent Systems}, 14(4):44--54,
+  \btxprintmonthyear{.}{7}{1999}{long}\ifbtxprintISSN {,
+  \mbox{\btxISSN~\btxISSNfont {1541-1672}}}.
+\newblock {\latintext \btxurlfont{http://dx.doi.org/10.1109/5254.784084}}.
+
 \bibitem {Nikolakopoulos:2013:NNR:2433396.2433415}
 \btxnamefont {\btxlastnamefont {Nikolakopoulos}, Athanasios\btxfnamespacelong
   N.} \btxandlong {}\ \btxnamefont {John\btxfnamespacelong D. \btxlastnamefont

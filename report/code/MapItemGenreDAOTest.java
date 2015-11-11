@@ -1,0 +1,50 @@
+/**
+ * Tests MapItemGenreDAO.
+ */
+
+public class MapItemGenreDAOTest {
+    @Rule
+    public TemporaryFolder folder = new TemporaryFolder();
+    MapItemGenreDAO gdao;
+
+    @Before
+    public void createFile() throws IOException {
+        File f = folder.newFile("genres.csv");
+        PrintStream str = new PrintStream(f);
+        try {
+            str.println("0,\"Shawshank Redemption, The (1994)\",0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0");
+            str.println("1,American History X (1998),0|0|0|0|0|1|0|1|0|0|0|0|0|0|0|0|0|0|0|0");
+            str.println("2,Z (1969),0|0|0|0|0|0|0|1|0|0|0|0|1|0|0|1|0|0|0|0");
+            str.println("3,\"Pan's Labyrinth (Laberinto del fauno, El) (2006)\",0|0|0|0|0|0|0|1|1|0|0|0|0|0|0|1|0|0|0|0");
+            str.println("4,Seven Pounds (2008),0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0");
+            str.println("5,Song of the Sea (2014),0|0|1|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0");
+        } finally {
+            str.close();
+        }
+        gdao = MapItemGenreDAO.fromCSVFile(f);
+    }
+    @Test
+    public void testMissingItem() {
+        assertThat(gdao.getItemGenre(6), nullValue());
+    }
+    @Test
+    public void testGenreSize() {
+        assertThat(gdao.getGenreSize(), equalTo(20));
+    }
+    @Test
+    public void testGenreVector() {
+        double[] testVec1 = {0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0};
+        double[] testVec2 = {0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0};
+        RealVector testRealVector1 = MatrixUtils.createRealVector(testVec1);
+        RealVector testRealVector2 = MatrixUtils.createRealVector(testVec2);
+        assertThat(gdao.getItemGenre(0), equalTo(testRealVector1));
+        assertThat(gdao.getItemGenre(5), equalTo(testRealVector2));
+        assertThat(testRealVector1.getDimension(), equalTo(gdao.getGenreSize()));
+        assertThat(gdao.getItemGenre(0).getDimension(), equalTo(gdao.getGenreSize()));
+        assertThat(testVec1.length, equalTo(gdao.getGenreSize()));
+    }
+    @Test
+    public void testItemIds() {
+        assertThat(gdao.getItemIds(), containsInAnyOrder(0L, 1L, 2L, 3L, 4L, 5L));
+    }
+}

@@ -104,6 +104,9 @@ bookmarks=false,
 \definecolor{pgreen}{rgb}{0,0.5,0}
 \definecolor{pred}{rgb}{0.9,0,0}
 \definecolor{pgrey}{rgb}{0.46,0.45,0.48}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
 
 \usepackage{listings}
 \lstset{language=Java,
@@ -114,15 +117,13 @@ bookmarks=false,
   breakatwhitespace=true,
   commentstyle=\color{pgreen},
   keywordstyle=\color{pblue},
+  emph={MyClass,__init__},          % Custom highlighting
+  emphstyle=\ttb\color{deepred},    % Custom highlighting style
   stringstyle=\color{pred},
   basicstyle=\ttfamily,
   moredelim=[il][\textcolor{pgrey}]{$$},
   moredelim=[is][\textcolor{pgrey}]{\%\%}{\%\%}
 }
-
-\definecolor{deepblue}{rgb}{0,0,0.5}
-\definecolor{deepred}{rgb}{0.6,0,0}
-\definecolor{deepgreen}{rgb}{0,0.5,0}
 
 % Python style for highlighting
 \newcommand\pythonstyle{\lstset{
