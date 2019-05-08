@@ -5,8 +5,7 @@ help users choose between a wide range of items. This diploma thesis contains
 an overview of the various approaches in the field of recommender
 systems. Emphasis was given on the collaborative filtering approach, since
 it is considered to be one of the most successful ones, and on the Cold-Start
-problem, that is a challenge for the generation of successful recommenda-
-tions.
+problem, that is a challenge for the generation of successful recommendations.
 
 Hierarchical Itemspace Rank (HIR) is the algorithm that was chosen to
 be implemented. HIR tackles successfully the cold-start problem. It exploits
